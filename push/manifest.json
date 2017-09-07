@@ -1,6 +1,6 @@
 {
-  "name": "OneSignal Example",
-  "short_name": "OneSignalExample",
+  "name": "Push Notification",
+  "short_name": "Push it!",
   "start_url": "/",
   "display": "standalone",
   "gcm_sender_id": "482941778795",
